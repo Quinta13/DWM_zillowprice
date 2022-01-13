@@ -2,6 +2,6 @@ datasets/
 preparazione/
 regioni/
 selezione/
-*.csv
-# images/
+images/
+# *.csv
 # *.jpg

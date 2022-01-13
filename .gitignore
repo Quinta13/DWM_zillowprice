@@ -3,5 +3,5 @@ preparazione/
 regioni/
 selezione/
 *.csv
-# images/
-# *.jpg
+images/
+*.jpg
